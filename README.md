@@ -8,7 +8,7 @@ un instructor puede crear cursos y un estudiante puede inscribirse a multiples c
 *AV23006 Luis Argueta
 *AA24007 Andrea Alfaro
 
-#tecnologias utilizados
+#tecnologias utilizadas
 **lenguaje de programacion:** JAVA
 **Base de Datos:** PostgreSQL 
 **Gestor de Base de Datos:** pgAdmin 4
