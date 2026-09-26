@@ -1,6 +1,6 @@
 #API para una plataforma de cursos online
 
-un instructor puede crear cursos y un estudiante puede inscribirse a multiples cursos, la api gestiona la relacion de inscripciones, permitiendo listar los cursos de un estudiante o los estudiantes de un curso.
+El proyecto consiste en el diseño y desarrollo de una API RESTful orientada al backend para la gestión integral de una plataforma educativa en línea. La lógica de negocio se estructura bajo un modelo relacional y orientado a objetos donde un instructor puede crear múltiples cursos, y un estudiante tiene la capacidad de inscribirse en varios de ellos de manera simultánea. La API gestiona de forma centralizada la relación de inscripciones a través de una tabla intermedia, permitiendo realizar consultas bidireccionales eficientes, tales como listar los cursos en los que se encuentra matriculado un estudiante o conocer la lista de estudiantes inscritos en un curso específico. El desarrollo abarca la implementación completa de las operaciones HTTP estándar (GET, POST, PUT, DELETE) para garantizar la correcta administración y persistencia de los datos del sistema.
 
 #integreantes del grupo
 
