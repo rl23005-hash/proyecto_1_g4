@@ -4,18 +4,18 @@ El proyecto consiste en el diseño y desarrollo de una API RESTful orientada al 
 
 #integreantes del grupo
 
-*RL23005 Josafat Rosales
-*AV23006 Luis Argueta
-*AA24007 Andrea Alfaro
+*RL23005 Josafat Rosales,
+*AV23006 Luis Argueta,
+*AA24007 Andrea Alfaro,
 
 #tecnologias utilizadas
-**lenguaje de programacion:** JAVA
-**Base de Datos:** PostgreSQL 
+**lenguaje de programacion:** JAVA,
+**Base de Datos:** PostgreSQL,
 **Gestor de Base de Datos:** pgAdmin 4
 
 #requisitos previos
-**JAVA jdk 17 en adelante**
-**pgAdmin 4**
+**JAVA jdk 17 en adelante**,
+**pgAdmin 4**,
 **visual studio code o IntelliJ IDEA**
 
 #Clonar el repositorio
