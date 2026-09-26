@@ -5,7 +5,7 @@ un instructor puede crear cursos y un estudiante puede inscribirse a multiples c
 #integreantes del grupo
 
 *RL23005 Josafat Rosales
-*AA23006 Luis Argueta
+*AV23006 Luis Argueta
 *AA24007 Andrea Alfaro
 
 #tecnologias utilizados
